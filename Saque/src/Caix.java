@@ -11,7 +11,7 @@ public class Caix {
 	  if(temp >= 100){
 	    cem = valor / 100;
 	    temp = valor % 100;
-	  }
+	  
 	  // quantas notas de 50?
 	  if(temp >= 50){
 	    cinquenta = temp / 50;
