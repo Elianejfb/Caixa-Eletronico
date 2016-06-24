@@ -3,7 +3,7 @@ public class Caix {
 	int saque = 784;
     int cem = 0, cinquenta = 0, vinte = 0, dez = 0, dois = 0;
 	int valor; // guarda o valor lido
-	int temp=// variável auxiliar 
+	int temp=// variÃ¡vel auxiliar 
 
 		temp = saque
 		
@@ -12,10 +12,7 @@ public class Caix {
 	    cem = valor / 100;
 	    temp = valor % 100;
 	  
-	  // quantas notas de 50?
-	  if(temp >= 50){
-	    cinquenta = temp / 50;
-	    temp = temp % 50;
+	
 	  }
 	  // quantas notas de 20?
 	  if(temp >= 20){
